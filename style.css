@@ -1,0 +1,28 @@
+nav {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.column{
+    margin: auto 10px auto 10px;
+}
+
+.message-header {
+    padding: 0px 0px 0px 0px;
+}
+
+p .nome{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.message .message-header img{
+    padding: auto auto auto auto;
+}
+
+footer{
+    background-color: black;
+}
+
+.subtitle{
+    background-color: white;
+    color: white;
+}
