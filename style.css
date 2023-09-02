@@ -1,5 +1,6 @@
 body{
-    background-color: lightgray;
+    background-color: rgb(122, 121, 121);    
+    margin: auto;
 }
 
 nav {
@@ -29,4 +30,8 @@ footer{
 .subtitle{
     background-color: white;
     color: white;
+}
+
+.img{
+    border-radius: 5px;
 }
