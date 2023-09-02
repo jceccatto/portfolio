@@ -14,10 +14,6 @@ Repositório para armazenar um provavel site autoral para servir tanto de portfo
 | # | ******* |
 | # | ******* |
 
-...
-
-git init
-...
 
 ## Referencias
 - [em construção]().
