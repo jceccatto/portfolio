@@ -3,9 +3,18 @@ body{
     margin: auto;
 }
 
-nav {
+nav{
     font-family: Arial, Helvetica, sans-serif;
 }
+
+.navbar{
+    position: fixed;
+    left: 0;
+    top: 0;
+    right: 0;
+}
+
+
 
 .column{
     margin: auto 10px auto 10px;
